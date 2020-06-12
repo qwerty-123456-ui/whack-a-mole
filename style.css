@@ -1,0 +1,34 @@
+body{
+    background-color:azure;
+}
+h1{
+/*     background-color:; */
+    font-size:80px;
+    color:darkslateblue;
+    text-shadow: 2px 5px aqua;
+    text-align:center;
+}
+h2{
+    font-size: 40px;
+    text-align:center;
+    color:blue;
+}
+.square{
+    width: 200px;
+    height: 200px;
+    border: 2px solid rgba(5, 60, 70, 0.842);
+}
+.grid{
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    width: 618px;
+    height: 618px;
+    margin:auto;
+}
+.mole{
+    background-image: url('mole.png');
+    background-size: cover;
+}

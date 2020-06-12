@@ -4,4 +4,4 @@
 
 ### *Let's Play*
 
-[![game](/ss.png)](https://qwerty-123456-ui.github.io/whack-a-mole/)
+[![game](/ss.png "play game")](https://qwerty-123456-ui.github.io/whack-a-mole/)
